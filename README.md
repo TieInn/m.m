@@ -1,2 +1,6 @@
-This is the repo of Tie In official, we are now working on the project itself.
-WISH US LUCK!
+We will update all the changes here!!!!!
+
+special credits goes to
+github.com/aparupganguly <Aparup Ganguly>
+github.com/Mochoye <Archisman Ray>
+<Swapnanil Saha> and <Aratrika Debnath> 
